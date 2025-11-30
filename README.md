@@ -1,6 +1,6 @@
 # Corex: A Decentralized, Meritocratic, and Biometric-Powered Economy
 
-**Visionary Lead:** [YOUR_NAME_OR_PSEUDONYM_HERE]
+**Visionary Lead:** Aryshna
 
 ## 🚀 Project Overview
 
@@ -45,7 +45,7 @@ This project operates under a unique meritocratic ownership model, fully aligned
 
 **Every contribution is a "Work Cell" or "Recognition Cell" within the project's development itself. Ownership (e.g., shares in the future Corex Foundation or protocol ownership) will be dynamically allocated based on the value you contribute, as assessed by the community of contributors.**
 
-*   **Initial Allocation:** As the visionary lead, [YOUR_NAME_OR_PSEUDONYM_HERE] holds a foundational stake representing the initial idea and architectural design (e.g., 5% ownership of the initial Corex protocol or 100 foundational Corex units). **<- THIS LINE NEEDS TO BE EDITED BY YOU**
+*   **Initial Allocation & Visionary's Role:** As the visionary lead and creator of the Corex concept, Aryshna's foundational contribution is the idea itself, the comprehensive Whitepaper, and the initial architectural design. **The Visionary Lead claims no pre-allocated financial share or Corex units for this initial creation.** Any Corex acquired by the Visionary Lead in the future will be through their active, ongoing contributions and work within the project, assessed by the community, exactly like any other contributor. This commitment underscores Corex's absolute meritocratic principle from its very inception.
 *   **Contribution Valuation:** All code, design, documentation, research, and community management efforts will be submitted as "Work Cells" within the development process.
 *   **Community Assessment:** Other contributors will evaluate these "Work Cells" based on their quality, complexity, and impact on the project, similar to how Corex assesses user work.
 *   **Dynamic Ownership:** Your share of the project's ownership will correlate directly with the aggregated "Community Score" of your contributions relative to others. This creates a truly meritocratic and continuously updated ownership structure.
@@ -53,7 +53,7 @@ This project operates under a unique meritocratic ownership model, fully aligned
 
 **To start contributing:**
 1.  Fork this repository.
-2.  Check the [Issues](https://github.com/[YOUR_GITHUB_USERNAME]/corex-decentralized-economy/issues) for open tasks or propose new ones. **<- THIS LINK NEEDS TO BE EDITED BY YOU**
+2.  Check the [Issues](https://github.com/Aryshna/corex-decentralized-economy/issues) for open tasks or propose new ones.
 3.  Submit your contributions as Pull Requests.
 4.  Your work will be reviewed and assessed by other contributors following the "Community-Driven Value Assessment" process.
 
