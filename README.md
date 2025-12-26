@@ -45,4 +45,4 @@ Built for justice, no money required, no intermediaries.
 - ایده اولیه و معماری: Aryshna (بدون سهم از پیش تعیین‌شده – فقط با کار واقعی سهم می‌گیره)  
   Initial idea and architecture: Aryshna (no pre-allocated share – earns through real work like everyone else)
 
-برای مشارکت، به CONTRIBUTING.md نگاه کنید / See CONTRIBUTING.md for contribution guidelines.
+برای مشارکت، به CONTRIBUTING.md نگاه کنید / See CONTRIBUTING.md for contribution guidelines. 
