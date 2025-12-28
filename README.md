@@ -1,48 +1,38 @@
-# پروژه Corex: اقتصاد غیرمتمرکز عادلانه مبتنی بر ارزش واقعی کار  
-Corex Project: Decentralized Fair Economy Based on Real Work Value
+# Corex Project: Decentralized Fair Economy Based on Real Work Value
 
-## چکیده / Abstract
-Corex یک سیستم اقتصادی انقلابی است که پول سنتی را با «بیت‌های Corex» جایگزین می‌کند – واحدهای دیجیتال که نماینده انرژی واقعی کار (ژول) + اطلاعات مفید (بیت‌های کاهش آنتروپی) هستند. هر فرد دقیقاً به اندازه سهمی که در هر کار (فیزیکی یا ذهنی) داشته، از ارزش نهایی مالک می‌شود. بدون استثمار، بدون بانک، بدون واسطه.  
+## Core Idea
+Corex means every individual owns exactly the percentage of value from any work or project based on their contribution (physical, mental, creative). No exploitation, no fixed salaries, no banks, no intermediaries.  
+Fame and wealth come only from pure trust, real effort, and benefiting others – regardless of geography, nationality, or initial wealth.
 
-Corex is a revolutionary economic system replacing fiat with "Corex bits" – digital units representing real work value (Joules + useful information bits, compressed with ~70% DNA efficiency). Every individual owns exactly their percentage of value from any work or project. No exploitation, no banks, no intermediaries.
+## Calculation Formula (Detailed)
+Corex transferred = M × V × R × S
 
-## اصول کلیدی / Key Principles
-- **معادل‌سازی کار-ارزش**: Corex = انرژی (ژول ÷ حد لانداور ≈ ۳×۱۰^{-۲۱} J/بیت) + اطلاعات مفید (فشرده‌شده با راندمان DNA ≈ ۰.۷۵)  
-  Work-Value Equivalence: Corex = energy (Joules ÷ Landauer limit ≈ 3×10^{-21} J/bit) + information (compressed at DNA efficiency ~0.75)
-- **جابجایی مستقیم**: از کیف فرستنده (کارفرما/مشتری) به کیف دریافت‌کننده (کارگر/دکتر/معلم)  
-  Direct Transfer: From sender wallet to receiver wallet
-- **ماتریس محاسبه**: Corex = M (اندازه کار) × V (ضریب ارزش افزوده) × R (اعتبار/راندمان DNA) × S (سهام فرستنده)  
-  Calculation Matrix: Corex = M (magnitude) × V (value multiplier) × R (reputation/DNA efficiency) × S (sender stake)
-- **مدل کوانتومی**: superposition برای ارزش نامشخص، entanglement برای توزیع خودکار، interference برای خنثی تقلب  
-  Quantum Model: Superposition for uncertain value, entanglement for fair distribution, interference for fraud neutralization
-- **احراز هویت**: یک انسان = یک Core (hash یک‌طرفه بیومتریک آفلاین)  
-  Identity: One human = one Core (offline biometric hash)
+- M (Magnitude): Base work size – physical energy (Joules ÷ Landauer limit ≈ 3×10^{-21} J/bit) + useful information created (entropy reduction).
+- V (Value Multiplier): Added value factor (1 to 200) – how much it reduces system entropy.
+- R (Reputation): Individual credibility (average previous scores) × DNA efficiency ≈ 0.75.
+- S (Sender Stake): Sender's weight (relative to their Corex balance – low balance = low weight, anti-fraud).
 
-## رفع نواقص / Flaw Resolutions
-- Sybil: احراز چندلایه (liveness + چالش فیزیکی)  
-  Sybil: Multi-layer liveness + physical challenges
-- تورم: burn ۱-۵٪ در هر تراکنش  
-  Inflation: 1-5% burn on transactions
-- دسترسی: P2P آفلاین با بلوتوث (بدون نیاز به اینترنت قوی)  
-  Accessibility: Offline P2P via Bluetooth (no strong internet needed)
-- حریم خصوصی: فقط hash محلی، بدون داده خام  
-  Privacy: Only local hash, no raw data
+## Membership and Start
+- Anyone joins by creating a unique Core ID (offline biometric hash – face photo + voice + daily challenge). No cost.
+- **Start with 0 bits**: Initial Corex balance is 0 – no free bits; everything starts from real work.
 
-## شروع محلی در ایران (اهواز) / Local Start in Iran (Ahvaz)
-با گوشی‌های میان‌رده (مثل Honor X7c) و اپ PWA آفلاین شروع کن – گروه تلگرامی یا واتساپی بساز و با ۱۰-۲۰ نفر تست کن.  
+## Bit Transfers (Corex Movement)
+- Scoring = Corex transfer from scorer's wallet to receiver's wallet.
+- **Example for 10 score**:  
+  - Scorer: 10 × 1000 bits (e.g., 10,000 bits) deducted from their wallet (real cost to prevent fake scores).
+  - Receiver: 10 × 1000 × V × R bits added (e.g., if V=5 and R=1.5, about 75,000 bits received).
+- If wallet is 0: Can't score – must do useful work first to earn Corex.
 
-Begin with mid-range phones (e.g., Honor X7c) and offline PWA app – create Telegram/WhatsApp group and test with 10-20 people.
+## Full Transparency
+- Every Core ID's Corex balance is public and searchable.
+- Transaction history (who transferred to whom, for what work) is public.
+- Everyone sees who earned wealth through real work – fame from trust and pure effort.
 
-## هدف نهایی / Final Goal
-زنجیر کردن بیت‌های مجازی به عمل واقعی برای متعادل‌سازی ثروت جهانی در نظم جدید کوانتومی.  
+## Practical Start (No Cost)
+- Create a Telegram group (Corex Ahvaz).
+- Announce useful work (e.g., Snap ride, Divar sale), get scored.
+- Manually record Corex in a free Google Sheet.
+- After 1-2 weeks, see how wealth comes from useful work.
 
+## Final Goal
 Chaining virtual data bits to real actions and fair wages for global wealth equilibration in a new quantum order.
-
-ساخته‌شده برای عدالت، بدون پول، بدون واسطه.  
-Built for justice, no money required, no intermediaries.
-
-## مشارکت‌کنندگان / Contributors
-- ایده اولیه و معماری: Aryshna (بدون سهم از پیش تعیین‌شده – فقط با کار واقعی سهم می‌گیره)  
-  Initial idea and architecture: Aryshna (no pre-allocated share – earns through real work like everyone else)
-
-برای مشارکت، به CONTRIBUTING.md نگاه کنید / See CONTRIBUTING.md for contribution guidelines. 
