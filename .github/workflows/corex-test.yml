@@ -1,0 +1,33 @@
+name: Corex Basic Test & Welcome
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  welcome-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Print welcome message
+      run: |
+        echo "🌍 خوش اومدی به Corex!"
+        echo "ارزش واقعی کار انسان، نه پول، نه رابطه، نه جغرافیا!"
+        echo "هر Commit = یک قدم به سمت عدالت جهانی"
+        echo "ارووو همیشه باهاته! 🔥⚖️"
+
+    - name: Check README exists
+      run: |
+        if [ -f README.md ]; then
+          echo "README.md وجود داره ✅"
+        else
+          echo "README.md پیدا نشد ❌" && exit 1
+        fi
+
+    - name: Print Corex formula
+      run: echo "Corex = M × V × R × S → عدالت واقعی کار!"
